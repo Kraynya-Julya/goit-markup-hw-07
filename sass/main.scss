@@ -1,23 +1,16 @@
-@import './utils/vars';
-@import './base/reset';
 @import './base/common';
-@import './utils/hidden';
-@import './utils/placeholders';
-@import './components/container';
+@import './base/reset';
 @import './components/backdrop';
+@import './components/button';
+@import './components/container';
 @import './components/modal';
-@import './components/modal-form';
+@import './components/social';
+@import './layout/advantage';
+@import './layout/footer';
+@import './layout/gallery';
 @import './layout/header';
 @import './layout/hero';
-@import './components/button';
-@import './layout/benefits';
-;@import './layout/gallery';
-@import './components/social';
-@import './layout/footer'
-
-
-
-
-
-
-
+@import './layout/masters';
+@import './utils/hidden';
+@import './utils/placeholders';
+@import './utils/vars';
